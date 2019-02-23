@@ -179,7 +179,9 @@
 .itemBox ul li:nth-last-child(1){
 	width: 100%;
 	border: none;
+	/*
 	height: 60px;
+	*/
 }
 .itemBox ul li .hg {
 	width: 14px;
